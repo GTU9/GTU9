@@ -58,14 +58,14 @@
 
 ### 👥 [Senials Backend](https://github.com/GTU9/Senials-Backend) | [Frontend](https://github.com/GTU9/Senials-Frontend)
 > 시니어를 위한 웹 서비스
-- **Backend:** Java, Spring Boot
-- **Frontend:** JavaScript, React
+- **Backend Tech:** Java, Spring Boot
+- **Frontend Tech:** JavaScript, React
 - **Role:** 풀스택 개발
 
 ### 🏆 [AIMEX](https://github.com/GTU9/AIMEX)
 > AI 관련 최종 프로젝트 (SKN 4팀)
 - **Tech:** Python, AI/ML
-- **Achievement:** 최종 프로젝트 완성
+- **Role:** TensorFlow 기반 딥러닝 모델 개발, MCP 인터페이스 구현, RESTful API 설계 및 구현
 
 <!--## 🌟 Activity-->
 
