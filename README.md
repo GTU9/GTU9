@@ -56,7 +56,7 @@
 - **Tech:** Python, LLM, Game Development
 - **Features:** 자연어 처리 기반 게임 마스터
 
-### 👥 [Senials](https://github.com/GTU9/Senials-Backend) | [Frontend](https://github.com/GTU9/Senials-Frontend)
+### 👥 [Senials Backend](https://github.com/GTU9/Senials-Backend) | [Frontend](https://github.com/GTU9/Senials-Frontend)
 > 시니어를 위한 웹 서비스
 - **Backend:** Java, Spring Boot
 - **Frontend:** JavaScript, React
