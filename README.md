@@ -63,7 +63,7 @@
 - **Role:** 풀스택 개발
 
 ### 🏆 [AIMEX](https://github.com/GTU9/AIMEX)
-> AI 관련 최종 프로젝트
+> 기업용 AI 인플루언서 생성 및 관리 플랫폼으로 실시간 AI 챗봇과 컨텐츠 생성 서비스
 - **Tech:** Python, AI/ML
 - **Role:** TensorFlow 기반 딥러닝 모델 개발, MCP 인터페이스 구현, RESTful API 설계 및 구현
 
@@ -80,13 +80,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=GTU9&theme=onedark&no-frame=true&row=1&column=7)
-
-</div>
 <!--
 **GTU9/GTU9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
