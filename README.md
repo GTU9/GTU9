@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-안녕하세요! 저는 **AI/ML**, **게임 개발**, **웹 개발**에 열정을 가진 개발자입니다.
+안녕하세요! 저는 **자연어처리**, **AI/ML**, **웹 개발**에 열정을 가진 개발자입니다.
 
 - 🔭 현재 **AI 모델 개발**과 **백엔드 개발** 프로젝트에 집중하고 있습니다
 - 🌱 **머신러닝**, **딥러닝**, **웹 개발** 기술을 지속적으로 학습하고 있습니다
@@ -80,6 +80,5 @@
 
 </div>
 
-<!--
 **GTU9/GTU9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
