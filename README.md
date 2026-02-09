@@ -72,11 +72,3 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![GTU9's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GTU9&theme=tokyo-night&hide_border=true)
-
-</div>
-
