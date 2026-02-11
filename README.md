@@ -38,7 +38,7 @@
 
 <div align="center">
 
-![GTU9's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTU9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+![GTU9's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTU9s&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTU9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
