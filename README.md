@@ -16,7 +16,7 @@
 - 홈 NAS에 직접 셀프호스팅하며 배포·운영까지 끝까지 책임지는 걸 좋아합니다
 - 자격증: 정보처리기사 · SQLD · 빅데이터분석기사
 - Contact: sangik9999@naver.com
-- 프로젝트 정리 사이트 : https://gtukim.duckdns.org
+- 포트폴리오 정리 사이트 : https://gtukim.duckdns.org
 
 ## Tech Stack
 
