@@ -2,18 +2,21 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=GTU9&color=blueviolet)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-gtukim.duckdns.org-00C7B7?style=for-the-badge)](https://gtukim.duckdns.org)
+[![Email](https://img.shields.io/badge/Email-sangik9999%40naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangik9999@naver.com)
 
 </div>
 
 ## About Me
 
 안녕하세요, 백엔드와 LLM 애플리케이션을 만드는 개발자 김상익입니다.
+Python/FastAPI 기반 백엔드와 RAG, 파인튜닝, 실시간 웹 서비스를 주로 개발합니다.  
+서비스 구현뿐 아니라 Docker 배포와 홈 NAS 셀프호스팅을 통해 운영까지 직접 경험하고 있습니다.
 
-- 사용자 경험 과 요구 사항을 중시하는 개발자가 되는 것이 목표입니다
-- 현재 Python/FastAPI 기반 백엔드와 LLM 서비스 개발에 집중하고 있습니다
-- RAG, 파인튜닝, 실시간 WebSocket, Docker 배포까지 직접 다룹니다
-- 홈 NAS에 직접 셀프호스팅하며 배포·운영까지 끝까지 책임지는 걸 좋아합니다
+- 사용자 경험과 요구 사항을 중시하는 개발자가 되는 것이 목표입니다.
+- 현재 Python/FastAPI 기반 백엔드와 LLM 서비스 개발에 집중하고 있습니다.
+- RAG, 파인튜닝, 실시간 WebSocket, Docker 배포까지 직접 다룹니다.
+- 홈 NAS에 직접 셀프호스팅하며 배포·운영까지 끝까지 책임지는 걸 좋아합니다.
 - 자격증: 정보처리기사 · SQLD · 빅데이터분석기사
 - Contact: sangik9999@naver.com
 - 포트폴리오 정리 사이트 : https://gtukim.duckdns.org
