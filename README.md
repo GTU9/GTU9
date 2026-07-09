@@ -44,8 +44,8 @@ Python/FastAPI 기반 백엔드와 RAG, 파인튜닝, 실시간 웹 서비스를
 
 <div align="center">
 
-![GTU9's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTU9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTU9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GTU9's GitHub stats](https://github-stats-extended.vercel.app/api?username=GTU9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=GTU9&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GTU9&theme=tokyonight&hide_border=true)
 
 </div>
